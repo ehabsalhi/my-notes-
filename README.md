@@ -28,11 +28,11 @@ And as a summary of these laws :
 <!-- Second paragraph  -->
 ###### Today it was the first lecture , I learned on it : 
 
-> * How i can use Terminal Commands and using ubuntu such as [ cd , mkdir , ls , touch ].
-> * What is githup and why we use it and how we can create a repositry on our account in github.
-> * What is Git and why we use it and how we can use it to clone the repository by SSH 
-> * What is the commands of Git that make us upload the file to githup such as [ add, commit, push ] "A-C-P"
-> * What is Markdown language and why we use it and we learning the features of this language and how create this feature such as [ heading , paragraph , hr , list , images , links , bold and italic font ].
-> * What is the difference between GUI (Graphical User Interface) and CLI (Command Line Interface) .
+>1. How i can use Terminal Commands and using ubuntu such as [ cd , mkdir , ls , touch ].
+>1. What is githup and why we use it and how we can create a repositry on our account in github.
+>1. What is Git and why we use it and how we can use it to clone the repository by SSH 
+>1. What is the commands of Git that make us upload the file to githup such as [ add, commit, push ] "A-C-P"
+>1. What is Markdown language and why we use it and we learning the features of this language and how create this feature such as [ heading , paragraph , h1.  list , images , links , bold and italic font ].
+>1. What is the difference between GUI (Graphical User Interface) and CLI (Command Line Interface) .
 
 
